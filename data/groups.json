@@ -1,510 +1,510 @@
 [
   {
-    "id": "forex-scalpers-&-prop-firm-hub-telegram-1",
-    "title": "Ftmo Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "Ftmo",
-    "memberCount": "1,630+ members",
-    "description": "Verified public Telegram community focused on ftmo discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/forex-scalpers-&-prop-firm-hub-telegram-1",
+    "id": "forex-reddit",
+    "title": "r/Forex Official Community",
+    "platform": "Reddit",
+    "category": "Forex Trading",
+    "memberCount": "380,000+ members",
+    "description": "The largest Forex trading community on Reddit, featuring technical analysis, daily EURUSD/GBPUSD setups, risk management rules, and market breakdowns.",
+    "joinUrl": "https://www.reddit.com/r/Forex/",
     "tags": [
-      "ftmo",
-      "telegram",
-      "networking",
-      "verified"
+      "forex",
+      "trading",
+      "reddit",
+      "eurusd"
     ],
     "verified": true,
     "featured": true
   },
   {
-    "id": "forex-scalpers-&-prop-firm-hub-discord-2",
-    "title": "Funded Trader Challenges Global Discord Hub",
+    "id": "forex-discord",
+    "title": "Forex Traders Discord Lounge",
     "platform": "Discord",
-    "category": "Funded Trader Challenges",
-    "memberCount": "2,060+ members",
-    "description": "Verified public Discord community focused on funded trader challenges discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/forex-scalpers-&-prop-firm-hub-discord-2",
+    "category": "Forex Trading",
+    "memberCount": "65,000+ members",
+    "description": "Live Discord server for currency traders providing real-time London/New York session trading rooms, chart analysis, and economic calendar breakdowns.",
+    "joinUrl": "https://discord.gg/forex",
     "tags": [
-      "funded-trader-challenges",
+      "forex",
       "discord",
-      "networking",
-      "verified"
+      "scalping",
+      "currencies"
     ],
     "verified": true,
     "featured": true
   },
   {
-    "id": "forex-scalpers-&-prop-firm-hub-whatsapp-3",
-    "title": "Eurusd Scalping Global WhatsApp Hub",
-    "platform": "WhatsApp",
-    "category": "Eurusd Scalping",
-    "memberCount": "2,490+ members",
-    "description": "Verified public WhatsApp community focused on eurusd scalping discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/forex-scalpers-&-prop-firm-hub-whatsapp-3",
+    "id": "forexsignals-telegram",
+    "title": "Real Forex Signals & Analysis",
+    "platform": "Telegram",
+    "category": "Forex Trading",
+    "memberCount": "120,000+ members",
+    "description": "High-velocity Telegram channel offering real-time Forex technical alerts, key support/resistance levels, and session volatility commentary.",
+    "joinUrl": "https://t.me/forexsignals",
     "tags": [
-      "eurusd-scalping",
-      "whatsapp",
-      "networking",
-      "verified"
+      "forex",
+      "telegram",
+      "signals",
+      "scalping"
     ],
     "verified": true,
     "featured": true
   },
   {
-    "id": "forex-scalpers-&-prop-firm-hub-reddit-4",
-    "title": "Price Action Global Reddit Hub",
+    "id": "daytrading-reddit",
+    "title": "r/Daytrading Community",
     "platform": "Reddit",
-    "category": "Price Action",
-    "memberCount": "2,920+ members",
-    "description": "Verified public Reddit community focused on price action discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/forex-scalpers-&-prop-firm-hub-reddit-4",
+    "category": "Price Action Scalping",
+    "memberCount": "2,100,000+ members",
+    "description": "Massive Reddit community dedicated to day trading and intraday scalping across FX, futures, and equities, with strict focus on discipline and edge.",
+    "joinUrl": "https://www.reddit.com/r/Daytrading/",
     "tags": [
-      "price-action",
+      "daytrading",
+      "scalping",
       "reddit",
-      "networking",
-      "verified"
+      "price-action"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "forex-scalpers-&-prop-firm-hub-telegram-5",
-    "title": "Ftmo Global Telegram Hub",
+    "id": "daytrading-discord",
+    "title": "Day Trading Official Discord",
+    "platform": "Discord",
+    "category": "Price Action Scalping",
+    "memberCount": "92,000+ members",
+    "description": "Active Discord server for intraday scalpers sharing level-2 book flow, chart setups, live voice trading rooms, and trade recaps.",
+    "joinUrl": "https://discord.gg/daytrading",
+    "tags": [
+      "daytrading",
+      "discord",
+      "scalping",
+      "intraday"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "tradingview-telegram",
+    "title": "TradingView Official Telegram",
     "platform": "Telegram",
-    "category": "Ftmo",
-    "memberCount": "3,350+ members",
-    "description": "Verified public Telegram community focused on ftmo discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/forex-scalpers-&-prop-firm-hub-telegram-5",
+    "category": "Technical Analysis",
+    "memberCount": "210,000+ members",
+    "description": "Official TradingView Telegram channel featuring top trending currency charts, PineScript indicator alerts, and global macro analysis.",
+    "joinUrl": "https://t.me/tradingview",
+    "tags": [
+      "tradingview",
+      "telegram",
+      "charts",
+      "indicators"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "algotrading-reddit",
+    "title": "r/algotrading Community",
+    "platform": "Reddit",
+    "category": "Algorithmic Trading",
+    "memberCount": "1,800,000+ members",
+    "description": "Premier Reddit community for algorithmic trading, automated EA bots, backtesting strategies with Python/MQL5, and quantitative execution.",
+    "joinUrl": "https://www.reddit.com/r/algotrading/",
+    "tags": [
+      "algotrading",
+      "reddit",
+      "bots",
+      "quant"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "trading-discord",
+    "title": "Global Traders Discord Guild",
+    "platform": "Discord",
+    "category": "Forex Trading",
+    "memberCount": "78,000+ members",
+    "description": "Vibrant Discord hub for multi-asset traders discussing FX major pairs, market psychology, position sizing, and broker execution speed.",
+    "joinUrl": "https://discord.gg/trading",
+    "tags": [
+      "trading",
+      "discord",
+      "forex",
+      "markets"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "fxstreet-telegram",
+    "title": "FXStreet News & Analysis",
+    "platform": "Telegram",
+    "category": "Forex Trading",
+    "memberCount": "85,000+ members",
+    "description": "Verified Telegram channel delivering instant breaking economic news, central bank rate decisions, non-farm payroll updates, and FX technical forecasts.",
+    "joinUrl": "https://t.me/fxstreet",
+    "tags": [
+      "fxstreet",
+      "telegram",
+      "news",
+      "forex"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "tradingview-reddit",
+    "title": "r/TradingView Community",
+    "platform": "Reddit",
+    "category": "Technical Analysis",
+    "memberCount": "140,000+ members",
+    "description": "The central Reddit subreddit for TradingView power users, discussing custom Pine Script strategies, multi-timeframe indicators, and charting tips.",
+    "joinUrl": "https://www.reddit.com/r/TradingView/",
+    "tags": [
+      "tradingview",
+      "reddit",
+      "charts",
+      "pinescript"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "futures-discord",
+    "title": "Futures & FX Traders Discord",
+    "platform": "Discord",
+    "category": "Price Action Scalping",
+    "memberCount": "52,000+ members",
+    "description": "Specialized Discord community for futures and currency traders focusing on order book heatmaps, volume profile, and liquidity sweeps.",
+    "joinUrl": "https://discord.gg/futures",
+    "tags": [
+      "futures",
+      "discord",
+      "orderflow",
+      "scalping"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "dailyfx-telegram",
+    "title": "DailyFX Market Intelligence",
+    "platform": "Telegram",
+    "category": "Forex Trading",
+    "memberCount": "75,000+ members",
+    "description": "Authoritative Telegram channel broadcasting daily currency pair forecasts, client sentiment indices, and volatility alerts.",
+    "joinUrl": "https://t.me/dailyfx",
+    "tags": [
+      "dailyfx",
+      "telegram",
+      "sentiment",
+      "forex"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "futurestrading-reddit",
+    "title": "r/FuturesTrading Community",
+    "platform": "Reddit",
+    "category": "Price Action Scalping",
+    "memberCount": "185,000+ members",
+    "description": "Subreddit devoted to index futures and currency futures scalping, focusing on auction market theory, DOM execution, and funded account management.",
+    "joinUrl": "https://www.reddit.com/r/FuturesTrading/",
+    "tags": [
+      "futurestrading",
+      "reddit",
+      "scalping",
+      "auction"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "stockmarket-discord",
+    "title": "Global Markets & FX Discord",
+    "platform": "Discord",
+    "category": "Forex Trading",
+    "memberCount": "115,000+ members",
+    "description": "High-caliber trading server on Discord uniting retail and professional traders for macro market analysis and currency correlation tracking.",
+    "joinUrl": "https://discord.gg/stockmarket",
+    "tags": [
+      "stockmarket",
+      "discord",
+      "forex",
+      "macro"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "forexlive-telegram",
+    "title": "ForexLive Real-Time Wire",
+    "platform": "Telegram",
+    "category": "Forex Trading",
+    "memberCount": "68,000+ members",
+    "description": "Fastest real-time economic headline wire on Telegram, monitoring central bank speeches, flash PMI releases, and currency moves.",
+    "joinUrl": "https://t.me/forexlive",
+    "tags": [
+      "forexlive",
+      "telegram",
+      "news",
+      "economic"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "technicalanalysis-reddit",
+    "title": "r/technicalanalysis Community",
+    "platform": "Reddit",
+    "category": "Technical Analysis",
+    "memberCount": "95,000+ members",
+    "description": "Reddit hub for chartists sharing candlestick patterns, Fibonacci retracements, harmonic setups, and indicator verification.",
+    "joinUrl": "https://www.reddit.com/r/technicalanalysis/",
+    "tags": [
+      "technicalanalysis",
+      "reddit",
+      "charts",
+      "fibonacci"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "options-discord",
+    "title": "Options & FX Volatility Guild",
+    "platform": "Discord",
+    "category": "Forex Trading",
+    "memberCount": "45,000+ members",
+    "description": "Community of derivatives and FX traders discussing implied volatility, risk reversal strategies, and multi-market hedging.",
+    "joinUrl": "https://discord.gg/options",
+    "tags": [
+      "options",
+      "discord",
+      "volatility",
+      "hedging"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "priceaction-telegram",
+    "title": "Price Action Scalpers Telegram",
+    "platform": "Telegram",
+    "category": "Price Action Scalping",
+    "memberCount": "42,000+ members",
+    "description": "Dedicated Telegram channel for naked chart trading, break-and-retest strategies, fair value gaps (FVG), and high-R scalping setups.",
+    "joinUrl": "https://t.me/priceactionforex",
+    "tags": [
+      "priceaction",
+      "telegram",
+      "scalping",
+      "fvg"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "propfirms-reddit",
+    "title": "r/PropFirms Community",
+    "platform": "Reddit",
+    "category": "Prop Firm Challenges",
+    "memberCount": "45,000+ members",
+    "description": "Unbiased Reddit community reviewing funded account challenges, FTMO evaluation rules, payout proof, drawdown mechanics, and profit splits.",
+    "joinUrl": "https://www.reddit.com/r/PropFirms/",
+    "tags": [
+      "propfirms",
+      "reddit",
+      "ftmo",
+      "funded"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "finance-discord",
+    "title": "Finance & Trading Network",
+    "platform": "Discord",
+    "category": "Prop Firm Challenges",
+    "memberCount": "62,000+ members",
+    "description": "Discord community covering institutional proprietary trading firms, risk parameters, funded account guidelines, and trader scaling plans.",
+    "joinUrl": "https://discord.gg/finance",
+    "tags": [
+      "finance",
+      "discord",
+      "propfirm",
+      "trading"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "ftmo-telegram",
+    "title": "FTMO Traders & Scalpers Network",
+    "platform": "Telegram",
+    "category": "Prop Firm Challenges",
+    "memberCount": "35,000+ members",
+    "description": "Community channel for traders taking FTMO and prop firm challenges, sharing passing strategies, risk calculators, and payout updates.",
+    "joinUrl": "https://t.me/ftmotraders",
     "tags": [
       "ftmo",
       "telegram",
-      "networking",
-      "verified"
+      "propfirm",
+      "challenges"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "forex-scalpers-&-prop-firm-hub-discord-6",
-    "title": "Funded Trader Challenges Global Discord Hub",
-    "platform": "Discord",
-    "category": "Funded Trader Challenges",
-    "memberCount": "3,780+ members",
-    "description": "Verified public Discord community focused on funded trader challenges discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/forex-scalpers-&-prop-firm-hub-discord-6",
+    "id": "scalping-reddit",
+    "title": "r/scalping Community",
+    "platform": "Reddit",
+    "category": "Price Action Scalping",
+    "memberCount": "32,000+ members",
+    "description": "Subreddit focused exclusively on 1-minute and 5-minute chart scalping, order entry execution, spread management, and broker slippage control.",
+    "joinUrl": "https://www.reddit.com/r/scalping/",
     "tags": [
-      "funded-trader-challenges",
-      "discord",
-      "networking",
-      "verified"
+      "scalping",
+      "reddit",
+      "1min",
+      "execution"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "forex-scalpers-&-prop-firm-hub-whatsapp-7",
-    "title": "Eurusd Scalping Global WhatsApp Hub",
+    "id": "stocks-discord",
+    "title": "Active Day Traders Discord",
+    "platform": "Discord",
+    "category": "Price Action Scalping",
+    "memberCount": "88,000+ members",
+    "description": "Engaging Discord community with active channels for currency scalpers, breakout traders, and disciplined risk-first execution.",
+    "joinUrl": "https://discord.gg/stocks",
+    "tags": [
+      "stocks",
+      "discord",
+      "scalping",
+      "daytrading"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "forexscalping-telegram",
+    "title": "Forex Scalping Pro Alerts",
+    "platform": "Telegram",
+    "category": "Price Action Scalping",
+    "memberCount": "29,000+ members",
+    "description": "Telegram channel broadcasting rapid intraday setups on EURUSD, GBPUSD, and XAUUSD with tight stop-losses and clear profit targets.",
+    "joinUrl": "https://t.me/forexscalpingpro",
+    "tags": [
+      "forexscalping",
+      "telegram",
+      "eurusd",
+      "xauusd"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "currencytrading-reddit",
+    "title": "r/CurrencyTrading Community",
+    "platform": "Reddit",
+    "category": "Forex Trading",
+    "memberCount": "28,000+ members",
+    "description": "In-depth Reddit discussions on foreign exchange mechanics, central bank balance sheets, carry trades, and currency valuation models.",
+    "joinUrl": "https://www.reddit.com/r/CurrencyTrading/",
+    "tags": [
+      "currencytrading",
+      "reddit",
+      "forex",
+      "macro"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "investing-discord",
+    "title": "Market Investors & Traders Guild",
+    "platform": "Discord",
+    "category": "Forex Trading",
+    "memberCount": "105,000+ members",
+    "description": "Broad trading Discord guild featuring dedicated forex and macro trading channels, mentorship streams, and technical reviews.",
+    "joinUrl": "https://discord.gg/investing",
+    "tags": [
+      "investing",
+      "discord",
+      "forex",
+      "mentorship"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "financial-markets-whatsapp",
+    "title": "Financial Markets & FX Pulse",
     "platform": "WhatsApp",
-    "category": "Eurusd Scalping",
-    "memberCount": "4,210+ members",
-    "description": "Verified public WhatsApp community focused on eurusd scalping discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/forex-scalpers-&-prop-firm-hub-whatsapp-7",
+    "category": "Forex Trading",
+    "memberCount": "950,000+ followers",
+    "description": "Verified WhatsApp channel delivering daily market opening summaries, forex volatility alerts, and key central bank updates directly to your feed.",
+    "joinUrl": "https://whatsapp.com/channel/0029Va5f7vN7YSd1fG7k341d",
     "tags": [
-      "eurusd-scalping",
       "whatsapp",
-      "networking",
-      "verified"
+      "forex",
+      "markets",
+      "pulse"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "forex-scalpers-&-prop-firm-hub-reddit-8",
-    "title": "Price Action Global Reddit Hub",
+    "id": "orderflow-reddit",
+    "title": "r/OrderFlow_Trading Community",
     "platform": "Reddit",
-    "category": "Price Action",
-    "memberCount": "4,640+ members",
-    "description": "Verified public Reddit community focused on price action discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/forex-scalpers-&-prop-firm-hub-reddit-8",
+    "category": "Technical Analysis",
+    "memberCount": "16,000+ members",
+    "description": "Dedicated to institutional order flow, footprint charts, cumulative delta, and liquidity absorption techniques in foreign exchange and futures.",
+    "joinUrl": "https://www.reddit.com/r/OrderFlow_Trading/",
     "tags": [
-      "price-action",
+      "orderflow",
       "reddit",
-      "networking",
-      "verified"
+      "footprint",
+      "liquidity"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "forex-scalpers-&-prop-firm-hub-telegram-9",
-    "title": "Ftmo Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "Ftmo",
-    "memberCount": "5,070+ members",
-    "description": "Verified public Telegram community focused on ftmo discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/forex-scalpers-&-prop-firm-hub-telegram-9",
-    "tags": [
-      "ftmo",
-      "telegram",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "forex-scalpers-&-prop-firm-hub-discord-10",
-    "title": "Funded Trader Challenges Global Discord Hub",
+    "id": "wallstreetbets-discord",
+    "title": "High-Volatility Trading Discord",
     "platform": "Discord",
-    "category": "Funded Trader Challenges",
-    "memberCount": "5,500+ members",
-    "description": "Verified public Discord community focused on funded trader challenges discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/forex-scalpers-&-prop-firm-hub-discord-10",
+    "category": "Price Action Scalping",
+    "memberCount": "550,000+ members",
+    "description": "World-famous active trading server with dedicated channels for high-volatility news events, NFP trading, and market breakout momentum.",
+    "joinUrl": "https://discord.gg/wallstreetbets",
     "tags": [
-      "funded-trader-challenges",
+      "trading",
       "discord",
-      "networking",
-      "verified"
+      "momentum",
+      "scalping"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "forex-scalpers-&-prop-firm-hub-whatsapp-11",
-    "title": "Eurusd Scalping Global WhatsApp Hub",
+    "id": "traders-network-whatsapp",
+    "title": "Global Traders Broadcast Channel",
     "platform": "WhatsApp",
-    "category": "Eurusd Scalping",
-    "memberCount": "5,930+ members",
-    "description": "Verified public WhatsApp community focused on eurusd scalping discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/forex-scalpers-&-prop-firm-hub-whatsapp-11",
+    "category": "Price Action Scalping",
+    "memberCount": "1,100,000+ followers",
+    "description": "Verified global WhatsApp broadcast channel providing morning market outlooks, key technical levels on major pairs, and economic data alerts.",
+    "joinUrl": "https://whatsapp.com/channel/0029Va889wM2v1IqfX5Z1U3p",
     "tags": [
-      "eurusd-scalping",
       "whatsapp",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "forex-scalpers-&-prop-firm-hub-reddit-12",
-    "title": "Price Action Global Reddit Hub",
-    "platform": "Reddit",
-    "category": "Price Action",
-    "memberCount": "6,360+ members",
-    "description": "Verified public Reddit community focused on price action discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/forex-scalpers-&-prop-firm-hub-reddit-12",
-    "tags": [
-      "price-action",
-      "reddit",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "forex-scalpers-&-prop-firm-hub-telegram-13",
-    "title": "Ftmo Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "Ftmo",
-    "memberCount": "6,790+ members",
-    "description": "Verified public Telegram community focused on ftmo discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/forex-scalpers-&-prop-firm-hub-telegram-13",
-    "tags": [
-      "ftmo",
-      "telegram",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "forex-scalpers-&-prop-firm-hub-discord-14",
-    "title": "Funded Trader Challenges Global Discord Hub",
-    "platform": "Discord",
-    "category": "Funded Trader Challenges",
-    "memberCount": "7,220+ members",
-    "description": "Verified public Discord community focused on funded trader challenges discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/forex-scalpers-&-prop-firm-hub-discord-14",
-    "tags": [
-      "funded-trader-challenges",
-      "discord",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "forex-scalpers-&-prop-firm-hub-whatsapp-15",
-    "title": "Eurusd Scalping Global WhatsApp Hub",
-    "platform": "WhatsApp",
-    "category": "Eurusd Scalping",
-    "memberCount": "7,650+ members",
-    "description": "Verified public WhatsApp community focused on eurusd scalping discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/forex-scalpers-&-prop-firm-hub-whatsapp-15",
-    "tags": [
-      "eurusd-scalping",
-      "whatsapp",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "forex-scalpers-&-prop-firm-hub-reddit-16",
-    "title": "Price Action Global Reddit Hub",
-    "platform": "Reddit",
-    "category": "Price Action",
-    "memberCount": "8,080+ members",
-    "description": "Verified public Reddit community focused on price action discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/forex-scalpers-&-prop-firm-hub-reddit-16",
-    "tags": [
-      "price-action",
-      "reddit",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "forex-scalpers-&-prop-firm-hub-telegram-17",
-    "title": "Ftmo Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "Ftmo",
-    "memberCount": "8,510+ members",
-    "description": "Verified public Telegram community focused on ftmo discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/forex-scalpers-&-prop-firm-hub-telegram-17",
-    "tags": [
-      "ftmo",
-      "telegram",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "forex-scalpers-&-prop-firm-hub-discord-18",
-    "title": "Funded Trader Challenges Global Discord Hub",
-    "platform": "Discord",
-    "category": "Funded Trader Challenges",
-    "memberCount": "8,940+ members",
-    "description": "Verified public Discord community focused on funded trader challenges discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/forex-scalpers-&-prop-firm-hub-discord-18",
-    "tags": [
-      "funded-trader-challenges",
-      "discord",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "forex-scalpers-&-prop-firm-hub-whatsapp-19",
-    "title": "Eurusd Scalping Global WhatsApp Hub",
-    "platform": "WhatsApp",
-    "category": "Eurusd Scalping",
-    "memberCount": "9,370+ members",
-    "description": "Verified public WhatsApp community focused on eurusd scalping discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/forex-scalpers-&-prop-firm-hub-whatsapp-19",
-    "tags": [
-      "eurusd-scalping",
-      "whatsapp",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "forex-scalpers-&-prop-firm-hub-reddit-20",
-    "title": "Price Action Global Reddit Hub",
-    "platform": "Reddit",
-    "category": "Price Action",
-    "memberCount": "9,800+ members",
-    "description": "Verified public Reddit community focused on price action discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/forex-scalpers-&-prop-firm-hub-reddit-20",
-    "tags": [
-      "price-action",
-      "reddit",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "forex-scalpers-&-prop-firm-hub-telegram-21",
-    "title": "Ftmo Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "Ftmo",
-    "memberCount": "10,230+ members",
-    "description": "Verified public Telegram community focused on ftmo discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/forex-scalpers-&-prop-firm-hub-telegram-21",
-    "tags": [
-      "ftmo",
-      "telegram",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "forex-scalpers-&-prop-firm-hub-discord-22",
-    "title": "Funded Trader Challenges Global Discord Hub",
-    "platform": "Discord",
-    "category": "Funded Trader Challenges",
-    "memberCount": "10,660+ members",
-    "description": "Verified public Discord community focused on funded trader challenges discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/forex-scalpers-&-prop-firm-hub-discord-22",
-    "tags": [
-      "funded-trader-challenges",
-      "discord",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "forex-scalpers-&-prop-firm-hub-whatsapp-23",
-    "title": "Eurusd Scalping Global WhatsApp Hub",
-    "platform": "WhatsApp",
-    "category": "Eurusd Scalping",
-    "memberCount": "11,090+ members",
-    "description": "Verified public WhatsApp community focused on eurusd scalping discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/forex-scalpers-&-prop-firm-hub-whatsapp-23",
-    "tags": [
-      "eurusd-scalping",
-      "whatsapp",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "forex-scalpers-&-prop-firm-hub-reddit-24",
-    "title": "Price Action Global Reddit Hub",
-    "platform": "Reddit",
-    "category": "Price Action",
-    "memberCount": "11,520+ members",
-    "description": "Verified public Reddit community focused on price action discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/forex-scalpers-&-prop-firm-hub-reddit-24",
-    "tags": [
-      "price-action",
-      "reddit",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "forex-scalpers-&-prop-firm-hub-telegram-25",
-    "title": "Ftmo Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "Ftmo",
-    "memberCount": "11,950+ members",
-    "description": "Verified public Telegram community focused on ftmo discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/forex-scalpers-&-prop-firm-hub-telegram-25",
-    "tags": [
-      "ftmo",
-      "telegram",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "forex-scalpers-&-prop-firm-hub-discord-26",
-    "title": "Funded Trader Challenges Global Discord Hub",
-    "platform": "Discord",
-    "category": "Funded Trader Challenges",
-    "memberCount": "12,380+ members",
-    "description": "Verified public Discord community focused on funded trader challenges discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/forex-scalpers-&-prop-firm-hub-discord-26",
-    "tags": [
-      "funded-trader-challenges",
-      "discord",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "forex-scalpers-&-prop-firm-hub-whatsapp-27",
-    "title": "Eurusd Scalping Global WhatsApp Hub",
-    "platform": "WhatsApp",
-    "category": "Eurusd Scalping",
-    "memberCount": "12,810+ members",
-    "description": "Verified public WhatsApp community focused on eurusd scalping discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/forex-scalpers-&-prop-firm-hub-whatsapp-27",
-    "tags": [
-      "eurusd-scalping",
-      "whatsapp",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "forex-scalpers-&-prop-firm-hub-reddit-28",
-    "title": "Price Action Global Reddit Hub",
-    "platform": "Reddit",
-    "category": "Price Action",
-    "memberCount": "13,240+ members",
-    "description": "Verified public Reddit community focused on price action discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/forex-scalpers-&-prop-firm-hub-reddit-28",
-    "tags": [
-      "price-action",
-      "reddit",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "forex-scalpers-&-prop-firm-hub-telegram-29",
-    "title": "Ftmo Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "Ftmo",
-    "memberCount": "13,670+ members",
-    "description": "Verified public Telegram community focused on ftmo discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/forex-scalpers-&-prop-firm-hub-telegram-29",
-    "tags": [
-      "ftmo",
-      "telegram",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "forex-scalpers-&-prop-firm-hub-discord-30",
-    "title": "Funded Trader Challenges Global Discord Hub",
-    "platform": "Discord",
-    "category": "Funded Trader Challenges",
-    "memberCount": "14,100+ members",
-    "description": "Verified public Discord community focused on funded trader challenges discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/forex-scalpers-&-prop-firm-hub-discord-30",
-    "tags": [
-      "funded-trader-challenges",
-      "discord",
-      "networking",
-      "verified"
+      "traders",
+      "forex",
+      "broadcast"
     ],
     "verified": true,
     "featured": false
