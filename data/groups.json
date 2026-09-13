@@ -1,5 +1,24 @@
 [
   {
+    "id": "forex-scalping-signals-hub-reddit-20260913-1",
+    "title": "Small Cap Momentum & Volume Alerts",
+    "platform": "Reddit",
+    "category": "Small Caps",
+    "memberCount": "2,000,000+ members",
+    "description": "High-beta small cap momentum, scanner configurations, float analysis, and catalyst trading.",
+    "joinUrl": "https://www.reddit.com/r/pennystocks/",
+    "tags": [
+      "small-caps",
+      "momentum",
+      "scanners",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-13"
+  },
+  {
     "id": "forex-reddit",
     "title": "r/Forex Official Community",
     "platform": "Reddit",
@@ -14,7 +33,8 @@
       "eurusd"
     ],
     "verified": true,
-    "featured": true
+    "featured": true,
+    "isTodaysPick": false
   },
   {
     "id": "forex-discord",
@@ -31,7 +51,8 @@
       "currencies"
     ],
     "verified": true,
-    "featured": true
+    "featured": true,
+    "isTodaysPick": false
   },
   {
     "id": "forexsignals-telegram",
@@ -48,7 +69,8 @@
       "scalping"
     ],
     "verified": true,
-    "featured": true
+    "featured": true,
+    "isTodaysPick": false
   },
   {
     "id": "daytrading-reddit",
@@ -65,7 +87,8 @@
       "price-action"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "daytrading-discord",
@@ -82,7 +105,8 @@
       "intraday"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "tradingview-telegram",
@@ -99,7 +123,8 @@
       "indicators"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "algotrading-reddit",
@@ -116,7 +141,8 @@
       "quant"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "trading-discord",
@@ -133,7 +159,8 @@
       "markets"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "fxstreet-telegram",
@@ -150,7 +177,8 @@
       "forex"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "tradingview-reddit",
@@ -167,7 +195,8 @@
       "pinescript"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "futures-discord",
@@ -184,7 +213,8 @@
       "scalping"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "dailyfx-telegram",
@@ -201,7 +231,8 @@
       "forex"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "futurestrading-reddit",
@@ -218,7 +249,8 @@
       "auction"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "stockmarket-discord",
@@ -235,7 +267,8 @@
       "macro"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "forexlive-telegram",
@@ -252,7 +285,8 @@
       "economic"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "technicalanalysis-reddit",
@@ -269,7 +303,8 @@
       "fibonacci"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "options-discord",
@@ -286,7 +321,8 @@
       "hedging"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "priceaction-telegram",
@@ -303,7 +339,8 @@
       "fvg"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "propfirms-reddit",
@@ -320,7 +357,8 @@
       "funded"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "finance-discord",
@@ -337,7 +375,8 @@
       "trading"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "ftmo-telegram",
@@ -354,7 +393,8 @@
       "challenges"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "scalping-reddit",
@@ -371,7 +411,8 @@
       "execution"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "stocks-discord",
@@ -388,7 +429,8 @@
       "daytrading"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "forexscalping-telegram",
@@ -405,7 +447,8 @@
       "xauusd"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "currencytrading-reddit",
@@ -422,7 +465,8 @@
       "macro"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "investing-discord",
@@ -439,7 +483,8 @@
       "mentorship"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "financial-markets-whatsapp",
@@ -456,7 +501,8 @@
       "pulse"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "orderflow-reddit",
@@ -473,7 +519,8 @@
       "liquidity"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "wallstreetbets-discord",
@@ -490,7 +537,8 @@
       "scalping"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "traders-network-whatsapp",
@@ -507,6 +555,7 @@
       "broadcast"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   }
 ]
