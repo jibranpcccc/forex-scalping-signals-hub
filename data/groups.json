@@ -1,5 +1,24 @@
 [
   {
+    "id": "forex-scalping-signals-hub-telegram-20260927-1",
+    "title": "Global Macro & Alpha Intelligence",
+    "platform": "Telegram",
+    "category": "Telegram",
+    "memberCount": "35,000+ members",
+    "description": "Central bank interest rate decisions, CPI prints, macro liquidity, and bond yield movements.",
+    "joinUrl": "https://t.me/investing",
+    "tags": [
+      "telegram",
+      "macro",
+      "cpi",
+      "bonds"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-27"
+  },
+  {
     "id": "forex-scalping-signals-hub-telegram-20260925-1",
     "title": "Stock Market Movers & Watchlists",
     "platform": "Telegram",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-25"
   },
   {
