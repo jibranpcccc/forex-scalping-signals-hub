@@ -1,5 +1,24 @@
 [
   {
+    "id": "forex-scalping-signals-hub-reddit-20261006-1",
+    "title": "r/ethereum Developers & Tech",
+    "platform": "Reddit",
+    "category": "Smart Contracts",
+    "memberCount": "3,400,000+ members",
+    "description": "Subreddit focused on Ethereum network upgrades, Layer 2 rollups, EVM smart contracts, and proof-of-stake economics.",
+    "joinUrl": "https://www.reddit.com/r/ethereum/",
+    "tags": [
+      "ethereum",
+      "smart-contracts",
+      "evm",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-10-06"
+  },
+  {
     "id": "forex-scalping-signals-hub-forum-20261005-1",
     "title": "BiggerPockets Real Estate Forum",
     "platform": "Forum",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-10-05"
   },
   {
