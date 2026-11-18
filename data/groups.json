@@ -1,5 +1,24 @@
 [
   {
+    "id": "forex-reddit",
+    "title": "r/Forex Official Community",
+    "platform": "Reddit",
+    "category": "Forex Trading",
+    "memberCount": "380,000+ members",
+    "description": "The largest Forex trading community on Reddit, featuring technical analysis, daily EURUSD/GBPUSD setups, risk management rules, and market breakdowns.",
+    "joinUrl": "https://www.reddit.com/r/Forex/",
+    "tags": [
+      "forex",
+      "trading",
+      "reddit",
+      "eurusd"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-18"
+  },
+  {
     "id": "forex-scalping-signals-hub-forum-20261020-1",
     "title": "Hacker News Community",
     "platform": "Forum",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-18"
   },
   {
@@ -606,24 +625,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "forex-reddit",
-    "title": "r/Forex Official Community",
-    "platform": "Reddit",
-    "category": "Forex Trading",
-    "memberCount": "380,000+ members",
-    "description": "The largest Forex trading community on Reddit, featuring technical analysis, daily EURUSD/GBPUSD setups, risk management rules, and market breakdowns.",
-    "joinUrl": "https://www.reddit.com/r/Forex/",
-    "tags": [
-      "forex",
-      "trading",
-      "reddit",
-      "eurusd"
-    ],
-    "verified": true,
-    "featured": true,
-    "isTodaysPick": false
   },
   {
     "id": "forex-discord",
