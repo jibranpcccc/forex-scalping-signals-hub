@@ -1,5 +1,24 @@
 [
   {
+    "id": "daytrading-reddit",
+    "title": "r/Daytrading Community",
+    "platform": "Reddit",
+    "category": "Price Action Scalping",
+    "memberCount": "2,100,000+ members",
+    "description": "Massive Reddit community dedicated to day trading and intraday scalping across FX, futures, and equities, with strict focus on discipline and edge.",
+    "joinUrl": "https://www.reddit.com/r/Daytrading/",
+    "tags": [
+      "daytrading",
+      "scalping",
+      "reddit",
+      "price-action"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-21"
+  },
+  {
     "id": "forexsignals-telegram",
     "title": "Real Forex Signals & Analysis",
     "platform": "Telegram",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-20"
   },
   {
@@ -663,42 +682,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "daytrading-reddit",
-    "title": "r/Daytrading Community",
-    "platform": "Reddit",
-    "category": "Price Action Scalping",
-    "memberCount": "2,100,000+ members",
-    "description": "Massive Reddit community dedicated to day trading and intraday scalping across FX, futures, and equities, with strict focus on discipline and edge.",
-    "joinUrl": "https://www.reddit.com/r/Daytrading/",
-    "tags": [
-      "daytrading",
-      "scalping",
-      "reddit",
-      "price-action"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
-  },
-  {
-    "id": "daytrading-discord",
-    "title": "Day Trading Official Discord",
-    "platform": "Discord",
-    "category": "Price Action Scalping",
-    "memberCount": "92,000+ members",
-    "description": "Active Discord server for intraday scalpers sharing level-2 book flow, chart setups, live voice trading rooms, and trade recaps.",
-    "joinUrl": "https://www.reddit.com/r/Daytrading/",
-    "tags": [
-      "daytrading",
-      "discord",
-      "scalping",
-      "intraday"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "tradingview-telegram",
