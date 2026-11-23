@@ -1,5 +1,24 @@
 [
   {
+    "id": "algotrading-reddit",
+    "title": "r/algotrading Community",
+    "platform": "Reddit",
+    "category": "Algorithmic Trading",
+    "memberCount": "1,800,000+ members",
+    "description": "Premier Reddit community for algorithmic trading, automated EA bots, backtesting strategies with Python/MQL5, and quantitative execution.",
+    "joinUrl": "https://www.reddit.com/r/algotrading/",
+    "tags": [
+      "algotrading",
+      "reddit",
+      "bots",
+      "quant"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-23"
+  },
+  {
     "id": "tradingview-telegram",
     "title": "TradingView Official Telegram",
     "platform": "Telegram",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-22"
   },
   {
@@ -701,24 +720,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "algotrading-reddit",
-    "title": "r/algotrading Community",
-    "platform": "Reddit",
-    "category": "Algorithmic Trading",
-    "memberCount": "1,800,000+ members",
-    "description": "Premier Reddit community for algorithmic trading, automated EA bots, backtesting strategies with Python/MQL5, and quantitative execution.",
-    "joinUrl": "https://www.reddit.com/r/algotrading/",
-    "tags": [
-      "algotrading",
-      "reddit",
-      "bots",
-      "quant"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "trading-discord",
